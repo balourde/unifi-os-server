@@ -28,7 +28,7 @@ let
     "data"
     "srv"
     "unifi"
-    "mongodb"
+    "mongodb-ce"
     "log"
     "rabbitmq-ssl"
   ];
